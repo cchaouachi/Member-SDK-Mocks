@@ -1,0 +1,231 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "country": "FR",
+  "screenName": "Global components",
+  "screenId" : "global-components",
+  "subCategory": "sportinformation",
+  "data": {
+    "order": [
+      "FR_Alert_Black",
+      "FR_Alert_Blue",
+      "FR_Alert_White",
+      "FR_Hero",
+      "FR_cardpillar1",
+      "FR_cardpillar2",
+      "FR_Hero3",
+      "TitleSection1",
+      "FR_Hero1",
+      "FR_Hero2",
+      "Cardtitle2",
+      "Cardtitle1",
+      "TitleSection2",
+      "TitleSection3"
+    ],
+    "sections": {
+      "alert": [
+        {
+          "color": "Black",
+          "id": "FR_Alert_Black",
+          "title": "Title black",
+          "subTitle": "Short paragraph with max 150 characters, and max 2 lines. Then ellipsize at the end",
+          "icon": "line/something/database",
+          "closeable": false,
+          "action": {
+            "type": "customTab",
+            "label": "Link",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "color": "Blue",
+          "id": "FR_Alert_Blue",
+          "title": "Title blue",
+          "subTitle": "This is a very long paragraph to text the ellipsizing. This is a very long paragraph to text the ellipsizing. This is a very long paragraph to text the ellipsizing. This is a very long paragraph to text the ellipsizing. This is a very long paragraph to text the ellipsizing. ",
+          "icon": "line/something/store",
+          "closeable": true,
+          "action": {
+            "type": "browser",
+            "label": "Link",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "color": "White",
+          "id": "FR_Alert_White",
+          "title": "Title white",
+          "subTitle": "Not closable. Short paragraph with max 150 characters, and max 2 lines. Then ellipsize at the end",
+          "icon": "fill/something/gift",
+          "closeable": true,
+          "action": {
+            "type": "customTab",
+            "label": "Link",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        }
+      ],
+      "hero": [
+        {
+          "id": "FR_Hero",
+          "title": "Title",
+          "subtitle": "Subtitle",
+          "tag": "3h = 400 points",
+          "closeButton": true,
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "text": "Short paragraph to explain the context of the hero card with max 2 lines and three dots if not full displsayed",
+          "brand": "decathlon"
+        },
+        {
+          "id": "FR_Hero3",
+          "title": "Title",
+          "subtitle": "Subtitle",
+          "tag": "1h = 100 points",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "brand": "nope"
+        },
+        {
+          "id": "FR_Hero2",
+          "title": "Title",
+          "subtitle": "Subtitle",
+          "tag": null,
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "brand": "nope"
+        },
+        {
+          "id": "FR_Hero1",
+          "title": "Title",
+          "subtitle": "",
+          "tag": null,
+          "closeButton": true,
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "brand": "nope"
+        }
+      ],
+      "titleSection": [
+        {
+          "type": "TitleSection",
+          "mandatory": true,
+          "id": "TitleSection1",
+          "title": "In store",
+          "icon": "fill/something/store",
+          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
+          "titleNumber": "(2)",
+          "topAction": {
+            "type": "customTab",
+            "label": "SEE ALL",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          },
+          "bottomAction": {
+            "type": "browser",
+            "label": "Learn more",
+            "value" "https://www.decathlon.fr",
+            "analytics": "learn more event browser"
+          }
+        },
+        {
+          "type": "TitleSection",
+          "mandatory": true,
+          "id": "TitleSection2",
+          "title": "In store",
+          "icon": "fill/something/gift",
+          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
+          "titleNumber": null,
+          "topAction": {
+            "type": "customTab",
+            "label": "SEE ALL",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          },
+          "bottomAction": {
+            "type": "browser",
+            "label": "Learn more",
+            "value" "https://www.decathlon.fr",
+            "analytics": "learn more event browser"
+          }
+        },
+        {
+          "type": "TitleSection",
+          "mandatory": true,
+          "id": "TitleSection3",
+          "title": "New features",
+          "icon": "fill/something/database",
+          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
+          "titleNumber": "(4)",
+          "topAction": {
+            "type": "customTab",
+            "label": "SEE ALL",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          },
+          "bottomAction": {
+            "type": "browser",
+            "label": "Learn more",
+            "value" "https://www.decathlon.fr",
+            "analytics": "learn more event browser"
+          }
+        }
+      ],
+      "cardPillar": [
+        {
+          "id": "FR_cardpillar1",
+          "title": "Get equipped",
+          "tag": "1€= 10pts",
+          "text": "each purchase make your earn points"
+        },
+        {
+          "id": "FR_cardpillar2",
+          "title": "Get equipped here",
+          "tag": "1€= 10pts",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "text": "each purchase make your earn points, we need to display this with 2 lines, so we need to add words to this sentence, "
+        }
+      ],
+      "cardTitle": [
+        {
+          "type": "Cardtitle",
+          "id": "Cardtitle1",
+          "title": "Title Card",
+          "text": "this is a title card please click to navigate",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "action": {
+            "type": "customTab",
+            "label": "SEE ALL",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "type": "Cardtitle",
+          "id": "Cardtitle2",
+          "title": "Title Card",
+          "text": "this is a title card please click to navigate and see we have many option that may help you! this is need to be displayed with 2 lines... to be tested",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "action": {
+            "type": "customTab",
+            "label": "SEE ALL",
+            "value" "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        }
+      ]
+    }
+  }
+}
