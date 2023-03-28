@@ -3,10 +3,15 @@
   "statusCode": 200,
   "country": "FR",
   "screenName": "Global components",
-  "screenId" : "global-components",
+  "screenId": "global-components",
   "subCategory": "sportinformation",
   "data": {
     "order": [
+      "Alert_custom_tab",
+      "Alert_browser",
+      "Alert_quick_access",
+      "Alert_component_factory_page",
+      "Alert_component_factory_modal",
       "FR_Alert_Black",
       "FR_Alert_Blue",
       "FR_Alert_White",
@@ -24,6 +29,76 @@
     ],
     "sections": {
       "alert": [
+        {
+          "color": "Black",
+          "id": "Alert_custom_tab",
+          "title": "Test of customTab action",
+          "subTitle": "Should open https://www.decathlon.fr",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "customTab",
+            "label": "Link",
+            "value": "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_browser",
+          "title": "Test of browser action",
+          "subTitle": "Should open https://www.decathlon.fr",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "browser",
+            "label": "Link",
+            "value": "https://www.decathlon.fr",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_quick_access",
+          "title": "Test of quickAccess action",
+          "subTitle": "Should trigger quick access to account home",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "quickAccess",
+            "label": "Link",
+            "value": "account_home",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_component_factory_page",
+          "title": "Test of componentFactoryPage action",
+          "subTitle": "Should open full page 'earn-more-points'",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "componentFactoryPage",
+            "label": "Link",
+            "value": "earn-more-points",
+            "analytics": "see all event webview"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_component_factory_modal",
+          "title": "Test of componentFactoryModal action",
+          "subTitle": "Should open modal 'how-to-earn-points'",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "componentFactoryPage",
+            "label": "Link",
+            "value": "how-to-earn-points",
+            "analytics": "see all event webview"
+          }
+        },
         {
           "color": "Black",
           "id": "FR_Alert_Black",
