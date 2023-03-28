@@ -40,7 +40,7 @@
             "type": "customTab",
             "label": "Link",
             "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            "analytics": "click on component factory test custom tab"
           }
         },
         {
@@ -54,7 +54,7 @@
             "type": "browser",
             "label": "Link",
             "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            "analytics": "click on component factory test browser"
           }
         },
         {
@@ -68,7 +68,7 @@
             "type": "quickAccess",
             "label": "Link",
             "value": "account_home",
-            "analytics": "see all event webview"
+            "analytics": "click on component factory test quick access"
           }
         },
         {
@@ -82,7 +82,7 @@
             "type": "componentFactoryPage",
             "label": "Link",
             "value": "earn-more-points",
-            "analytics": "see all event webview"
+            "analytics": "click on component factory to other page component factory"
           }
         },
         {
@@ -93,10 +93,10 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
-            "type": "componentFactoryPage",
+            "type": "componentFactoryModal",
             "label": "Link",
             "value": "how-to-earn-points",
-            "analytics": "see all event webview"
+            "analytics": "click on component factory to other modal component factory"
           }
         },
         {
