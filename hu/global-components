@@ -300,7 +300,54 @@
             "analytics": "see all event webview"
           }
         }
-      ]
+      ],
+      "listComponent": [
+              {
+                "id": "ListComonent1",
+                "items": [
+                  {
+                    "itemId": "1",
+                    "order": 1,
+                    "icon": null,
+                    "title": "Hello List",
+                    "description": "my description here"
+                  },
+                  {
+                    "itemId": "0",
+                    "order": 2,
+                    "icon": "fill/something/gift",
+                    "title": "Hello List",
+                    "description": "my description here"
+                  },
+                  {
+                    "itemId": "3",
+                    "order": 4,
+                    "icon": "fill/something/gift",
+                    "title": "Hello List",
+                    "description": "First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point"
+                  }
+                ]
+              },
+              {
+                "id": "ListComonent2",
+                "items": [
+                  {
+                    "itemId": "0",
+                    "order": 2,
+                    "icon": "fill/something/store",
+                    "title": "Hello List",
+                    "description": "<a href=\"http://www.google.com\">liens here </a>my description here"
+                  },
+                  {
+                    "itemId": "3",
+                    "order": 4,
+                    "icon": "fill/something/database",
+                    "title": "Hello List",
+                    "description": "First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point <a href=\"http://www.google.com\">Click</a>"
+                  }
+                ]
+              }
+            ]
     }
   }
 }
