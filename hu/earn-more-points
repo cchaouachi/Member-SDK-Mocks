@@ -25,7 +25,7 @@
           "action": {
               "type": "componentFactoryModal",
               "label": "Unused",
-              "value": "how-to-earn-points",
+              "value": "get-equipped",
               "analytics": "click on component factory to other page component factory"
             }
         },
