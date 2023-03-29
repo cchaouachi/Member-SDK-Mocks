@@ -21,7 +21,13 @@
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "tag": "1€= 10pts",
-          "text": "each purchase make your earn points"
+          "text": "each purchase make your earn points",
+          "action": {
+              "type": "componentFactoryModal",
+              "label": "Unused",
+              "value": "get-equipped",
+              "analytics": "click on component factory to other page component factory"
+            }
         },
         {
           "id": "CP_ACT_FOR_THE_PLANET",
