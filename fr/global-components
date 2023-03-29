@@ -3,10 +3,15 @@
   "statusCode": 200,
   "country": "FR",
   "screenName": "Global components",
-  "screenId" : "global-components",
+  "screenId": "global-components",
   "subCategory": "sportinformation",
   "data": {
     "order": [
+      "Alert_custom_tab",
+      "Alert_browser",
+      "Alert_quick_access",
+      "Alert_component_factory_page",
+      "Alert_component_factory_modal",
       "FR_Alert_Black",
       "FR_Alert_Blue",
       "FR_Alert_White",
@@ -24,6 +29,76 @@
     ],
     "sections": {
       "alert": [
+        {
+          "color": "Black",
+          "id": "Alert_custom_tab",
+          "title": "Test of customTab action",
+          "subTitle": "Should open https://www.decathlon.fr",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "customTab",
+            "label": "Link",
+            "value": "https://www.decathlon.fr",
+            "analytics": "click on component factory test custom tab"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_browser",
+          "title": "Test of browser action",
+          "subTitle": "Should open https://www.decathlon.fr",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "browser",
+            "label": "Link",
+            "value": "https://www.decathlon.fr",
+            "analytics": "click on component factory test browser"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_quick_access",
+          "title": "Test of quickAccess action",
+          "subTitle": "Should trigger quick access to account home",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "quickAccess",
+            "label": "Link",
+            "value": "account_home",
+            "analytics": "click on component factory test quick access"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_component_factory_page",
+          "title": "Test of componentFactoryPage action",
+          "subTitle": "Should open full page 'earn-more-points'",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "componentFactoryPage",
+            "label": "Link",
+            "value": "earn-more-points",
+            "analytics": "click on component factory to other page component factory"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "Alert_component_factory_modal",
+          "title": "Test of componentFactoryModal action",
+          "subTitle": "Should open modal 'how-to-earn-points'",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "componentFactoryModal",
+            "label": "Link",
+            "value": "how-to-earn-points",
+            "analytics": "click on component factory to other modal component factory"
+          }
+        },
         {
           "color": "Black",
           "id": "FR_Alert_Black",
@@ -225,7 +300,72 @@
             "analytics": "see all event webview"
           }
         }
-      ]
+      ],
+      "listComponent": [
+              {
+                "id": "ListComonent1",
+                "items": [
+                  {
+                    "itemId": "1",
+                    "order": 1,
+                    "icon": null,
+                    "title": "Hello List",
+                    "description": "my description here"
+                  },
+                  {
+                    "itemId": "0",
+                    "order": 2,
+                    "icon": "fill/something/gift",
+                    "title": "Hello List",
+                    "description": "my description here"
+                  },
+                  {
+                    "itemId": "3",
+                    "order": 4,
+                    "icon": "fill/something/gift",
+                    "title": "Hello List",
+                    "description": "First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point"
+                  }
+                ]
+              },
+              {
+                "id": "ListComonent2",
+                "items": [
+                  {
+                    "itemId": "0",
+                    "order": 2,
+                    "icon": "fill/something/store",
+                    "title": "Hello List",
+                    "description": "<a href=\"http://www.google.com\">liens here </a>my description here"
+                  },
+                  {
+                    "itemId": "3",
+                    "order": 4,
+                    "icon": "fill/something/database",
+                    "title": "Hello List",
+                    "description": "First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point <a href=\"http://www.google.com\">Click</a>"
+                  }
+                ]
+              }
+            ],
+             "cardTitleAccordion": [
+                    {
+                      "id": "TitleAccordion1",
+                      "title": "Card Title Accordion",
+                      "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+                      "imageUrlMedium": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+                      "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+                      "tag": "1€= 10pts",
+                      "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
+                      "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
+                      "topAction": {
+                        "type": "webview",
+                        "label": "SEE ALL",
+                        "link": "https://www.decathlon.fr",
+                        "analytics": "see all event webview"
+                      }
+                    }
+                  ]
     }
   }
 }
