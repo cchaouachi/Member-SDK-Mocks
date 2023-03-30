@@ -7,6 +7,7 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
+      "TitleAccordion1",
       "Alert_custom_tab",
       "Alert_browser",
       "Alert_quick_access",
