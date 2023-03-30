@@ -9,6 +9,7 @@
     "order": [
       "HERO_HEADER",
       "ALERT_WELCOME",
+      "TITLE_SECTION_EQUIP_YOURSELF",
       "ALERT_LOYALTY"
     ],
     "sections": {
@@ -37,7 +38,22 @@
           "title": "Your loyalty card",
           "subTitle": "Remember to show it at the checkout to get your points!",
           "icon": "line/something/gift",
-          "closeable": false
+          "closeable": false,
+          "action": {
+            "type": "customTab",
+            "label": "Add to my wallet",
+            "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "analytics": "Click on add loyalty card button from ALERT_LOYALTY"
+          }
+        }
+      ],
+      "titleSection": [
+        {
+          "type": "TitleSection",
+          "mandatory": true,
+          "id": "TITLE_SECTION_EQUIP_YOURSELF",
+          "title": "Want to equip yourself?",
+          "text": "Earn loyalty points and all your purchases of Decathlon products and other international brands, as well as on <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>marketplace</a> products sold by our partners"
         }
       ]
     }

@@ -112,8 +112,6 @@
       ],
       "titleSection": [
         {
-          "type": "TitleSection",
-          "mandatory": true,
           "id": "TitleSection1",
           "title": "In store",
           "icon": "fill/something/store",
@@ -133,8 +131,6 @@
           }
         },
         {
-          "type": "TitleSection",
-          "mandatory": true,
           "id": "TitleSection2",
           "title": "In store",
           "icon": "fill/something/gift",
