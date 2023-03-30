@@ -7,6 +7,7 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
+      "FR_Hero",
       "TitleAccordion1",
       "Alert_custom_tab",
       "Alert_browser",
@@ -16,7 +17,6 @@
       "FR_Alert_Black",
       "FR_Alert_Blue",
       "FR_Alert_White",
-      "FR_Hero",
       "FR_cardpillar1",
       "FR_cardpillar2",
       "FR_Hero3",
