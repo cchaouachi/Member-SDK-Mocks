@@ -187,8 +187,6 @@
       ],
       "titleSection": [
         {
-          "type": "TitleSection",
-          "mandatory": true,
           "id": "TitleSection1",
           "title": "In store",
           "icon": "fill/something/store",
@@ -208,8 +206,6 @@
           }
         },
         {
-          "type": "TitleSection",
-          "mandatory": true,
           "id": "TitleSection2",
           "title": "In store",
           "icon": "fill/something/gift",
@@ -229,8 +225,6 @@
           }
         },
         {
-          "type": "TitleSection",
-          "mandatory": true,
           "id": "TitleSection3",
           "title": "New features",
           "icon": "fill/something/database",
@@ -357,7 +351,7 @@
                       "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
                       "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
                       "topAction": {
-                        "type": "webview",
+                        "value": "webview",
                         "label": "SEE ALL",
                         "link": "https://www.decathlon.fr",
                         "analytics": "see all event webview"
