@@ -1,7 +1,7 @@
 {
   "success": true,
   "statusCode": 200,
-  "country": "FR",
+  "country": "EN",
   "screenName": "Global components",
   "screenId": "global-components",
   "subCategory": "sportinformation",
@@ -351,9 +351,9 @@
                       "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
                       "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
                       "topAction": {
-                        "value": "webview",
+                        "type": "webview",
                         "label": "SEE ALL",
-                        "link": "https://www.decathlon.fr",
+                        "value": "https://www.decathlon.fr",
                         "analytics": "see all event webview"
                       }
                     }
