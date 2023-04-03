@@ -1,13 +1,15 @@
 {
   "success": true,
   "statusCode": 200,
-  "country": "EN",
+  "country": "FR",
   "screenName": "Global components",
   "screenId": "global-components",
   "subCategory": "sportinformation",
   "data": {
     "order": [
       "FR_Hero",
+      "ListComponent1",
+      "ListComponent2",
       "TitleAccordion1",
       "Alert_custom_tab",
       "Alert_browser",
@@ -296,7 +298,7 @@
       ],
       "listComponent": [
               {
-                "id": "ListComonent1",
+                "id": "ListComponent1",
                 "items": [
                   {
                     "itemId": "1",
@@ -322,7 +324,7 @@
                 ]
               },
               {
-                "id": "ListComonent2",
+                "id": "ListComponent2",
                 "items": [
                   {
                     "itemId": "0",
