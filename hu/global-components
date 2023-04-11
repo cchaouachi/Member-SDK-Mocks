@@ -7,8 +7,8 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
-      "Label1",
       "FR_Hero",
+      "Label1",
       "ListComponent1",
       "ListComponent2",
       "TitleAccordion1",
