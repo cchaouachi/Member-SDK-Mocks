@@ -80,11 +80,11 @@
       "titleSort": [
         {
           "id": "ID_PERMANENT",
-          "title": "permanent"
+          "text": "permanent"
         },
         {
           "id": "ID_CHALLENGE",
-          "title": "challenge"
+          "text": "challenge"
         }
       ]
     }
