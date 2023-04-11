@@ -37,10 +37,10 @@
           "id": "Label1",
           "title1": "In store",
           "icon1": "line/something/store",
-          "title2": "In store",
-          "icon2": "line/something/store",
-          "title1": "In store",
-          "icon1": "line/something/store"
+          "title2": "On website",
+          "icon2": "line/something/earth",
+          "title1": "On app",
+          "icon1": "line/something/phone"
         }
       ],
       "alert": [
