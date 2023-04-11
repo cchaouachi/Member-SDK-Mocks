@@ -39,8 +39,8 @@
           "icon1": "line/something/store",
           "title2": "On website",
           "icon2": "line/something/earth",
-          "title1": "On app",
-          "icon1": "line/something/phone"
+          "title3": "On app",
+          "icon3": "line/something/phone"
         }
       ],
       "alert": [
