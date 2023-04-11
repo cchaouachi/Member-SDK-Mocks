@@ -51,24 +51,6 @@
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "text": "Share your purchase experience with other Decathlon customers"
-        },
-        {
-          "id": "CP_INFO",
-          "title": "Communicate",
-          "tag": "1 review = 10 pts",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "text": "Share your purchase experience with other Decathlon customers"
-        },
-        {
-          "id": "CP_INFO_SCROLL",
-          "title": "Communicate",
-          "tag": "1 review = 10 pts",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "text": "Share your purchase experience with other Decathlon customers"
         }
       ]
     }
