@@ -10,9 +10,7 @@
       "CP_GET_EQUIPPED",
       "CP_ACT_FOR_THE_PLANET",
       "CP_MOVE",
-      "CP_COMMUNICATE",
-      "CP_INFO",
-      "CP_INFO_SCROLL"
+      "CP_COMMUNICATE"
     ],
     "sections": {
       "cardPillar": [
