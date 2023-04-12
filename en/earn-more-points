@@ -1,16 +1,18 @@
 {
   "success": true,
   "statusCode": 200,
-  "country": "HU",
+  "country": "EN",
   "screenName": "Earn more points",
   "screenId": "earn-more-points",
   "subCategory": "sportinformation",
   "data": {
     "order": [
+      "ID_PERMANENT",
       "CP_GET_EQUIPPED",
       "CP_AT_LIST_PERMANENT_PILLAR",
       "CP_AT_LEAST_ONE_CHALLENGE",
-      "CP_COMMUNICATE"
+      "CP_COMMUNICATE",
+      "ID_CHALLENGE"
     ],
     "sections": {
       "cardPillar": [
@@ -68,11 +70,21 @@
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "text": "Share your purchase experience with other Decathlon customers",
           "action": {
+            "analytics": "click on component factory to other page component factory",
             "type": "componentFactoryPage",
             "label": "earn",
-            "value": "how-to-earn-points",
-            "analytics": "click on component factory to other page component factory"
+            "value": "how-to-earn-points"
           }
+        }
+      ],
+      "titleSort": [
+        {
+          "id": "ID_PERMANENT",
+          "text": "permanent"
+        },
+        {
+          "id": "ID_CHALLENGE",
+          "text": "challenge"
         }
       ]
     }
