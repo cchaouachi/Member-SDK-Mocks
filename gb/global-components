@@ -44,8 +44,8 @@
       "seeMore": [
         {
           "id": "FR_see_all_alert",
-          "seeMoreTitle": "See more blabla",
-          "seeMoreDescription": "Custom description with context"
+          "title": "See more blabla",
+          "description": "Custom description with context"
         }
       ],
       "label": [
