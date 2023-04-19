@@ -41,7 +41,7 @@
       [ "TitleSection3" ]
     ],
     "sections": {
-      "seeAll": [
+      "seeMore": [
         {
           "id": "FR_see_all_alert",
           "seeMoreTitle": "See more blabla",
