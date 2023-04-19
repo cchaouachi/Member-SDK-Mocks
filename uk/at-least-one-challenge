@@ -7,10 +7,10 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
-      "FR_cardpillar1",
-      "FR_cardpillar2",
-      "Cardtitle2",
-      "Cardtitle1"
+      [ "FR_cardpillar1" ],
+      [ "FR_cardpillar2" ],
+      [ "Cardtitle2" ],
+      [ "Cardtitle1" ]
     ],
     "sections": {
       "cardPillar": [

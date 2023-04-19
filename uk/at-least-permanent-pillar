@@ -7,8 +7,8 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
-      "FR_cardpillar1",
-      "FR_cardpillar2"
+      [ "FR_cardpillar1" ],
+      [ "FR_cardpillar2" ]
     ],
     "sections": {
 
