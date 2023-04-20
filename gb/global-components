@@ -52,7 +52,8 @@
       "seeMore": [
         {
           "id": "FR_see_all_alert",
-          "title": "See more blabla",
+          "title": "See more alerts",
+          "pageTitle": "All alerts"
           "description": "Custom description with context"
         }
       ],
