@@ -24,7 +24,9 @@
         "FR_Alert_Black",
         "FR_Alert_Blue",
         "FR_Alert_White",
-        "FR_Alert_Black",
+        "FR_Alert_Blue",
+        "FR_Alert_White",
+        "FR_Alert_Scroll",
         "FR_Alert_Blue",
         "FR_Alert_White",
         "FR_see_all_alert"
@@ -65,6 +67,20 @@
           "id": "Alert_custom_tab",
           "title": "Test of customTab action",
           "subTitle": "Should open https://www.decathlon.fr",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "customTab",
+            "label": "Link",
+            "value": "https://www.decathlon.fr",
+            "analytics": "click on component factory test custom tab"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "FR_Alert_Scroll",
+          "title": "6th alert",
+          "subTitle": "Should not be visible in carousel, but should be the end state of the animation after see more",
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
