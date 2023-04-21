@@ -7,31 +7,56 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
-      "FR_Hero",
-      "Label1",
-      "ListComponent1",
-      "ListComponent2",
-      "TitleAccordion1",
-      "Alert_custom_tab",
-      "Alert_browser",
-      "Alert_quick_access",
-      "Alert_component_factory_page",
-      "Alert_component_factory_modal",
-      "FR_Alert_Black",
-      "FR_Alert_Blue",
-      "FR_Alert_White",
-      "FR_cardpillar1",
-      "FR_cardpillar2",
-      "FR_Hero3",
-      "TitleSection1",
-      "FR_Hero1",
-      "FR_Hero2",
-      "Cardtitle2",
-      "Cardtitle1",
-      "TitleSection2",
-      "TitleSection3"
+      [ "FR_Hero" ],
+      [ "Label1" ],
+      [ "ListComponent1" ],
+      [ "ListComponent2" ],
+      [ "TitleAccordion1" ],
+      [ "Alert_custom_tab" ],
+      [ "Alert_browser" ],
+      [ "Alert_quick_access" ],
+      [ "Alert_component_factory_page" ],
+      [ "Alert_component_factory_modal" ],
+      [ "FR_Alert_Black" ],
+      [ "FR_Alert_Blue" ],
+      [ "FR_Alert_White" ],
+      [
+        "FR_Alert_Black",
+        "FR_Alert_Blue",
+        "FR_Alert_White",
+        "FR_Alert_Blue",
+        "FR_Alert_White",
+        "FR_Alert_Scroll",
+        "FR_Alert_Blue",
+        "FR_Alert_White",
+        "FR_Alert_White",
+        "FR_Alert_White",
+        "FR_Alert_White",
+        "FR_Alert_White",
+        "FR_Alert_White",
+        "FR_Alert_White",
+        "FR_see_all_alert"
+      ],
+      [ "FR_cardpillar1" ],
+      [ "FR_cardpillar2" ],
+      [ "FR_Hero3" ],
+      [ "TitleSection1" ],
+      [ "FR_Hero1" ],
+      [ "FR_Hero2" ],
+      [ "Cardtitle2" ],
+      [ "Cardtitle1" ],
+      [ "TitleSection2" ],
+      [ "TitleSection3" ]
     ],
     "sections": {
+      "seeMore": [
+        {
+          "id": "FR_see_all_alert",
+          "title": "See more alerts",
+          "pageTitle": "All alerts"
+          "description": "Custom description with context"
+        }
+      ],
       "label": [
         {
           "id": "Label1",
@@ -49,6 +74,20 @@
           "id": "Alert_custom_tab",
           "title": "Test of customTab action",
           "subTitle": "Should open https://www.decathlon.fr",
+          "icon": "line/something/thumb_up",
+          "closeable": false,
+          "action": {
+            "type": "customTab",
+            "label": "Link",
+            "value": "https://www.decathlon.fr",
+            "analytics": "click on component factory test custom tab"
+          }
+        },
+        {
+          "color": "Black",
+          "id": "FR_Alert_Scroll",
+          "title": "6th alert",
+          "subTitle": "Should not be visible in carousel, but should be the end state of the animation after see more",
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
