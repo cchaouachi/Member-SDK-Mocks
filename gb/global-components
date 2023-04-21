@@ -25,8 +25,8 @@
         "FR_Alert_Blue",
         "FR_Alert_White",
         "FR_Alert_Blue",
-        "FR_Alert_White",
         "FR_Alert_Scroll",
+        "FR_Alert_White",
         "FR_Alert_Blue",
         "FR_Alert_White",
         "FR_Alert_White",
@@ -86,7 +86,7 @@
         {
           "color": "Black",
           "id": "FR_Alert_Scroll",
-          "title": "6th alert",
+          "title": "5th alert",
           "subTitle": "Should not be visible in carousel, but should be the end state of the animation after see more",
           "icon": "line/something/thumb_up",
           "closeable": false,
