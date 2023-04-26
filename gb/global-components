@@ -35,7 +35,8 @@
         "FR_Alert_White",
         "FR_Alert_White",
         "FR_Alert_White",
-        "FR_see_all_alert"
+        "
+        "
       ],
       [ "FR_cardpillar1" ],
       [ "FR_cardpillar2" ],
@@ -53,7 +54,7 @@
         {
           "id": "FR_see_all_alert",
           "title": "See more alerts",
-          "pageTitle": "All alerts"
+          "pageTitle": "All alerts",
           "description": "Custom description with context"
         }
       ],
