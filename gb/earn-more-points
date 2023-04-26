@@ -7,7 +7,7 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
-    "TitleSection1",
+      [ "TitleSection1" ],
       [ "ID_PERMANENT" ],
       [ "CP_GET_EQUIPPED_1" ],
       [ "CP_GET_EQUIPPED" ],
