@@ -30,7 +30,8 @@
         "ServiceCardPacer",
         "ServiceCardDomyos",
         "ServiceCardTraining",
-        "ServiceCardConnect"
+        "ServiceCardConnect",
+        "FR_see_all_service_card"
       ],
       [
         "TitleAccordion1"
@@ -73,7 +74,8 @@
         "FR_Alert_White",
         "FR_Alert_White",
         "FR_Alert_White",
-        "FR_Alert_White"
+        "FR_Alert_White",
+        "FR_see_all_alert"
       ],
       [
         "FR_cardpillar1"
@@ -235,7 +237,13 @@
           "title": "See more alerts",
           "pageTitle": "All alerts",
           "description": "Custom description with context"
-        }
+        },
+        {
+           "id": "FR_see_all_service_card",
+           "title": "See more apps",
+           "pageTitle": "All decathlon apps",
+           "description": "And download them all"
+         },
       ],
       "label": [
         {
