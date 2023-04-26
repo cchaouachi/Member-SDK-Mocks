@@ -20,7 +20,7 @@
         "ListComponent2"
       ],
       [
-        "ServiceCardSolo"
+        "ServiceCardCoach"
       ],
       [
         "ServiceCardCoach",
@@ -74,8 +74,7 @@
         "FR_Alert_White",
         "FR_Alert_White",
         "FR_Alert_White",
-        "
-        "
+        "         "
       ],
       [
         "FR_cardpillar1"
@@ -115,9 +114,9 @@
           "title": "App coach",
           "logo": "coach",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -130,9 +129,9 @@
           "title": "App outdoor",
           "logo": "outdoor",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -145,9 +144,9 @@
           "title": "App pacer",
           "logo": "pacer",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -160,9 +159,9 @@
           "title": "App training",
           "logo": "training",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -175,9 +174,9 @@
           "title": "App kinomap",
           "logo": "kinomap",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -186,13 +185,13 @@
           }
         },
         {
-          "id": "ServiceCardKinomap",
+          "id": "ServiceCardActivities",
           "title": "App activities",
           "logo": "activities",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -201,13 +200,13 @@
           }
         },
         {
-          "id": "ServiceCardKinomap",
+          "id": "ServiceCardDomyos",
           "title": "App domyos",
           "logo": "domyos",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
@@ -220,9 +219,9 @@
           "title": "App connect",
           "logo": "connect",
           "text": "Your companion application to practice (treadmills, bikes, rowers)",
-          "imageUrlSmall": "",
-          "imageUrlMedium": "",
-          "imageUrlLarge": "",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
             "type": "browser",
             "label": "Browser action",
