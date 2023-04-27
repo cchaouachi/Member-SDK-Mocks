@@ -29,9 +29,139 @@
       "Cardtitle2",
       "Cardtitle1",
       "TitleSection2",
-      "TitleSection3"
+      "TitleSection3",
+      "ServiceCardCoach",
+      "ServiceCardOutdoor",
+      "ServiceCardKinomap",
+      "ServiceCardActivities",
+      "ServiceCardPacer",
+      "ServiceCardDomyos",
+      "ServiceCardTraining",
+      "ServiceCardConnect"
     ],
     "sections": {
+       "serviceCard": [
+    {
+      "id": "ServiceCardCoach",
+      "title": "App coach",
+      "logo": "coach",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardOutdoor",
+      "title": "App outdoor",
+      "logo": "outdoor",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardPacer",
+      "title": "App pacer",
+      "logo": "pacer",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardTraining",
+      "title": "App training",
+      "logo": "training",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardKinomap",
+      "title": "App kinomap",
+      "logo": "kinomap",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardActivities",
+      "title": "App activities",
+      "logo": "activities",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardDomyos",
+      "title": "App domyos",
+      "logo": "domyos",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    },
+    {
+      "id": "ServiceCardConnect",
+      "title": "App connect",
+      "logo": "connect",
+      "text": "Your companion application to practice (treadmills, bikes, rowers)",
+      "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+      "action": {
+        "type": "browser",
+        "label": "Browser action",
+        "value": "https://www.decathlon.fr",
+        "analytics": "learn more event browser"
+      }
+    }
+  ],
       "label": [
         {
           "id": "Label1",
