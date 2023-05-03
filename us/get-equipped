@@ -7,10 +7,18 @@
   "subCategory": "?",
   "data": {
     "order": [
-      [ "HERO_HEADER" ],
-      [ "ALERT_WELCOME" ],
-      [ "TITLE_SECTION_EQUIP_YOURSELF" ],
-      [ "ALERT_LOYALTY" ]
+      [
+        "HERO_HEADER"
+      ],
+      [
+        "ALERT_WELCOME"
+      ],
+      [
+        "TITLE_SECTION_EQUIP_YOURSELF"
+      ],
+      [
+        "ALERT_LOYALTY"
+      ]
     ],
     "sections": {
       "hero": [
@@ -19,6 +27,7 @@
           "title": "Get equipped",
           "subtitle": "",
           "tag": "1€=10pts",
+          "tagColor": "decorative_jade",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "brand": "unused"
         }
@@ -40,6 +49,18 @@
           "icon": "line/something/gift",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "Add to my wallet",
+              "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "analytics": "Click on add loyalty card button from ALERT_LOYALTY"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "Add to my wallet",
+              "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+              "analytics": "Click on add loyalty card button from ALERT_LOYALTY"
+            },
             "type": "customTab",
             "label": "Add to my wallet",
             "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",

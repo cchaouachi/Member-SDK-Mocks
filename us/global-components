@@ -34,7 +34,7 @@
         "FR_see_all_service_card"
       ],
       [
-        "TitleAccordion1","TitleAccordion2","TitleAccordion3","TitleAccordion4","TitleAccordion5","TitleAccordion6",
+        "TitleAccordion1"
       ],
       [
         "Alert_custom_tab"
@@ -119,6 +119,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -134,6 +146,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -149,6 +173,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -164,6 +200,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -179,6 +227,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -194,6 +254,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -209,6 +281,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -224,6 +308,18 @@
           "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Browser action",
             "value": "https://www.decathlon.fr",
@@ -239,11 +335,11 @@
           "description": "Custom description with context"
         },
         {
-           "id": "FR_see_all_service_card",
-           "title": "See more apps",
-           "pageTitle": "All decathlon apps",
-           "description": "And download them all"
-         }
+          "id": "FR_see_all_service_card",
+          "title": "See more apps",
+          "pageTitle": "All decathlon apps",
+          "description": "And download them all"
+        }
       ],
       "label": [
         {
@@ -265,6 +361,18 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "click on component factory test custom tab"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "click on component factory test custom tab"
+            },
             "type": "customTab",
             "label": "Link",
             "value": "https://www.decathlon.fr",
@@ -279,6 +387,18 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "click on component factory test custom tab"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "click on component factory test custom tab"
+            },
             "type": "customTab",
             "label": "Link",
             "value": "https://www.decathlon.fr",
@@ -293,6 +413,18 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "click on component factory test browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "click on component factory test browser"
+            },
             "type": "browser",
             "label": "Link",
             "value": "https://www.decathlon.fr",
@@ -307,6 +439,18 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "quickAccess",
+              "label": "Link",
+              "value": "account_home",
+              "analytics": "click on component factory test quick access"
+            },
+            "app": {
+              "type": "quickAccess",
+              "label": "Link",
+              "value": "account_home",
+              "analytics": "click on component factory test quick access"
+            },
             "type": "quickAccess",
             "label": "Link",
             "value": "account_home",
@@ -321,6 +465,18 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "componentFactoryPage",
+              "label": "Link",
+              "value": "earn-more-points",
+              "analytics": "click on component factory to other page component factory"
+            },
+            "app": {
+              "type": "componentFactoryPage",
+              "label": "Link",
+              "value": "earn-more-points",
+              "analytics": "click on component factory to other page component factory"
+            },
             "type": "componentFactoryPage",
             "label": "Link",
             "value": "earn-more-points",
@@ -335,6 +491,18 @@
           "icon": "line/something/thumb_up",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "componentFactoryModal",
+              "label": "Link",
+              "value": "how-to-earn-points",
+              "analytics": "click on component factory to other modal component factory"
+            },
+            "app": {
+              "type": "componentFactoryModal",
+              "label": "Link",
+              "value": "how-to-earn-points",
+              "analytics": "click on component factory to other modal component factory"
+            },
             "type": "componentFactoryModal",
             "label": "Link",
             "value": "how-to-earn-points",
@@ -349,6 +517,18 @@
           "icon": "line/something/database",
           "closeable": false,
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "Link",
             "value": "https://www.decathlon.fr",
@@ -363,6 +543,18 @@
           "icon": "line/something/store",
           "closeable": true,
           "action": {
+            "web": {
+              "type": "browser",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "browser",
             "label": "Link",
             "value": "https://www.decathlon.fr",
@@ -377,6 +569,18 @@
           "icon": "fill/something/gift",
           "closeable": true,
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "Link",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "Link",
             "value": "https://www.decathlon.fr",
@@ -390,6 +594,7 @@
           "title": "Title",
           "subtitle": "Subtitle",
           "tag": "3h = 400 points",
+          "tagColor": "decorative_cobalt",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -401,6 +606,7 @@
           "title": "Title",
           "subtitle": "Subtitle",
           "tag": "1h = 100 points",
+          "tagColor": "decorative_cobalt",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -411,6 +617,7 @@
           "title": "Title",
           "subtitle": "Subtitle",
           "tag": null,
+          "tagColor": "decorative_cobalt",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -421,6 +628,7 @@
           "title": "Title",
           "subtitle": "",
           "tag": null,
+          "tagColor": "decorative_cobalt",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -435,12 +643,36 @@
           "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
           "titleNumber": "(2)",
           "topAction": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
             "analytics": "see all event webview"
           },
           "bottomAction": {
+            "web": {
+              "type": "browser",
+              "label": "Learn more",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Learn more",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Learn more",
             "value": "https://www.decathlon.fr",
@@ -454,12 +686,36 @@
           "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
           "titleNumber": null,
           "topAction": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
             "analytics": "see all event webview"
           },
           "bottomAction": {
+            "web": {
+              "type": "browser",
+              "label": "Learn more",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Learn more",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Learn more",
             "value": "https://www.decathlon.fr",
@@ -473,12 +729,36 @@
           "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
           "titleNumber": "(4)",
           "topAction": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
             "analytics": "see all event webview"
           },
           "bottomAction": {
+            "web": {
+              "type": "browser",
+              "label": "Learn more",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Learn more",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
             "type": "browser",
             "label": "Learn more",
             "value": "https://www.decathlon.fr",
@@ -491,12 +771,14 @@
           "id": "FR_cardpillar1",
           "title": "Get equipped",
           "tag": "1€= 10pts",
+          "tagColor": "decorative_jade",
           "text": "each purchase make your earn points"
         },
         {
           "id": "FR_cardpillar2",
           "title": "Get equipped here",
           "tag": "1€= 10pts",
+          "tagColor": "decorative_jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -509,11 +791,24 @@
           "id": "Cardtitle1",
           "title": "Title Card",
           "tag": "1€= 10pts",
+          "tagColor": "decorative_jade",
           "text": "this is a title card please click to navigate",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
@@ -525,11 +820,24 @@
           "id": "Cardtitle2",
           "title": "Title Card",
           "tag": "2€= 10pts",
+          "tagColor": "decorative_jade",
           "text": "this is a title card please click to navigate and see we have many option that may help you! this is need to be displayed with 2 lines... to be tested",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
@@ -592,89 +900,22 @@
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231715130-5492a682-9e79-4987-973f-9c10affea384.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "tag": "1€= 10pts",
+          "tagColor": "decorative_jade",
           "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
           "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
           "topAction": {
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event custom tab"
-          }
-        },
-        {
-          "id": "TitleAccordion2",
-          "title": "Card Title Accordion",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231715130-5492a682-9e79-4987-973f-9c10affea384.png",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "tag": "1€= 10pts",
-          "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "topAction": {
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event custom tab"
-          }
-        },
-        {
-          "id": "TitleAccordion3",
-          "title": "Card Title Accordion",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231715130-5492a682-9e79-4987-973f-9c10affea384.png",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "tag": "1€= 10pts",
-          "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "topAction": {
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event custom tab"
-          }
-        },
-        {
-          "id": "TitleAccordion4",
-          "title": "Card Title Accordion",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231715130-5492a682-9e79-4987-973f-9c10affea384.png",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "tag": "1€= 10pts",
-          "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "topAction": {
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event custom tab"
-          }
-        },
-        {
-          "id": "TitleAccordion5",
-          "title": "Card Title Accordion",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231715130-5492a682-9e79-4987-973f-9c10affea384.png",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "tag": "1€= 10pts",
-          "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "topAction": {
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event custom tab"
-          }
-        },
-        {
-          "id": "TitleAccordion6",
-          "title": "Card Title Accordion",
-          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231715130-5492a682-9e79-4987-973f-9c10affea384.png",
-          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
-          "tag": "1€= 10pts",
-          "shortDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "longDescription": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point ",
-          "topAction": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event custom tab"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event custom tab"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",

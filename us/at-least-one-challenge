@@ -3,14 +3,22 @@
   "statusCode": 200,
   "country": "FR",
   "screenName": "At least one challenge",
-  "screenId" : "at-least-one-challenge",
+  "screenId": "at-least-one-challenge",
   "subCategory": "sportinformation",
   "data": {
     "order": [
-      [ "FR_cardpillar1" ],
-      [ "FR_cardpillar2" ],
-      [ "Cardtitle2" ],
-      [ "Cardtitle1" ]
+      [
+        "FR_cardpillar1"
+      ],
+      [
+        "FR_cardpillar2"
+      ],
+      [
+        "Cardtitle2"
+      ],
+      [
+        "Cardtitle1"
+      ]
     ],
     "sections": {
       "cardPillar": [
@@ -18,12 +26,14 @@
           "id": "FR_cardpillar1",
           "title": "Get equipped",
           "tag": "1€= 10pts",
+          "tagColor": "decorative_jade",
           "text": "each purchase make your earn points"
         },
         {
           "id": "FR_cardpillar2",
           "title": "Get equipped here",
           "tag": "1€= 10pts",
+          "tagColor": "decorative_jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -40,6 +50,18 @@
           "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
@@ -55,6 +77,18 @@
           "imageUrlMedium": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "action": {
+            "web": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
+            "app": {
+              "type": "customTab",
+              "label": "SEE ALL",
+              "value": "https://www.decathlon.fr",
+              "analytics": "see all event webview"
+            },
             "type": "customTab",
             "label": "SEE ALL",
             "value": "https://www.decathlon.fr",
