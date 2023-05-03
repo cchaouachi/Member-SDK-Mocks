@@ -47,7 +47,7 @@
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510466-67555815-f565-4375-a8ca-d3095d49d41c.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "tag": "1€= 10pts",
-          "tagColor": "jade",
+          "tagColor": "decorative_jade",
           "text": "each purchase make your earn points",
           "action": {
             "web": {
@@ -75,7 +75,7 @@
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510466-67555815-f565-4375-a8ca-d3095d49d41c.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "tag": "1€= 10pts",
-          "tagColor": "jade",
+          "tagColor": "decorative_jade",
           "text": "each purchase make your earn points",
           "action": {
             "web": {
@@ -100,7 +100,7 @@
           "id": "CP_AT_LIST_PERMANENT_PILLAR",
           "title": "At least permanent pillar",
           "tag": "till 100pts",
-          "tagColor": "jade",
+          "tagColor": "decorative_jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510413-f77221cb-9126-4102-918c-3010956218b3.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -128,7 +128,7 @@
           "id": "CP_AT_LEAST_ONE_CHALLENGE",
           "title": "At least one challenge",
           "tag": "100 pts per week",
-          "tagColor": "jade",
+          "tagColor": "decorative_jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510362-6a9db005-0e23-4756-abf6-8edc51f6d435.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
@@ -156,7 +156,7 @@
           "id": "CP_COMMUNICATE",
           "title": "How to earn points",
           "tag": "1 review = 10 pts",
-          "tagColor": "jade",
+          "tagColor": "decorative_jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510313-825c06f1-49d9-4d38-af2b-19b6a0074357.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
