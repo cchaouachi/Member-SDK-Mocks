@@ -7,32 +7,59 @@
   "subCategory": "sportinformation",
   "data": {
     "order": [
-    "TitleSection1",
-      [ "ID_PERMANENT" ],
-      [ "CP_GET_EQUIPPED_1" ],
-      [ "CP_GET_EQUIPPED" ],
-      [ "CP_AT_LIST_PERMANENT_PILLAR" ],
-      [ "CP_AT_LEAST_ONE_CHALLENGE" ],
-      [ "CP_COMMUNICATE" ],
-      [ "ID_CHALLENGE" ]
+      "TitleSection1",
+      [
+        "ID_PERMANENT"
+      ],
+      [
+        "CP_GET_EQUIPPED_1"
+      ],
+      [
+        "CP_GET_EQUIPPED"
+      ],
+      [
+        "CP_AT_LIST_PERMANENT_PILLAR"
+      ],
+      [
+        "CP_AT_LEAST_ONE_CHALLENGE"
+      ],
+      [
+        "CP_COMMUNICATE"
+      ],
+      [
+        "ID_CHALLENGE"
+      ]
     ],
     "sections": {
-     "titleSection": [
+      "titleSection": [
         {
           "id": "TitleSection1",
           "text": "Discover all the ways you can earn loyalty points to unlock many rewards."
         }
       ],
       "cardPillar": [
-              {
+        {
           "id": "CP_GET_EQUIPPED_1",
           "title": "Get equipped With Error",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510466-67555815-f565-4375-a8ca-d3095d49d41c.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "tag": "1€= 10pts",
+          "tagColor": "jade",
           "text": "each purchase make your earn points",
           "action": {
+            "web": {
+              "type": "componentFactoryModal",
+              "label": "Unused",
+              "value": "get-equipped-error",
+              "analytics": "click on component factory to other page component factory"
+            },
+            "app": {
+              "type": "componentFactoryModal",
+              "label": "Unused",
+              "value": "get-equipped-error",
+              "analytics": "click on component factory to other page component factory"
+            },
             "type": "componentFactoryModal",
             "label": "Unused",
             "value": "get-equipped-error",
@@ -46,8 +73,21 @@
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510466-67555815-f565-4375-a8ca-d3095d49d41c.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "tag": "1€= 10pts",
+          "tagColor": "jade",
           "text": "each purchase make your earn points",
           "action": {
+            "web": {
+              "type": "componentFactoryModal",
+              "label": "Unused",
+              "value": "get-equipped",
+              "analytics": "click on component factory to other page component factory"
+            },
+            "app": {
+              "type": "componentFactoryModal",
+              "label": "Unused",
+              "value": "get-equipped",
+              "analytics": "click on component factory to other page component factory"
+            },
             "type": "componentFactoryModal",
             "label": "Unused",
             "value": "get-equipped",
@@ -58,11 +98,24 @@
           "id": "CP_AT_LIST_PERMANENT_PILLAR",
           "title": "At least permanent pillar",
           "tag": "till 100pts",
+          "tagColor": "jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510413-f77221cb-9126-4102-918c-3010956218b3.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "text": "Each of your purchases of eco-designed or second-hand products earns points.",
           "action": {
+            "web": {
+              "type": "componentFactoryPage",
+              "label": "permanent",
+              "value": "at-least-permanent-pillar",
+              "analytics": "click on component factory to other page component factory"
+            },
+            "app": {
+              "type": "componentFactoryPage",
+              "label": "permanent",
+              "value": "at-least-permanent-pillar",
+              "analytics": "click on component factory to other page component factory"
+            },
             "type": "componentFactoryPage",
             "label": "permanent",
             "value": "at-least-permanent-pillar",
@@ -73,11 +126,24 @@
           "id": "CP_AT_LEAST_ONE_CHALLENGE",
           "title": "At least one challenge",
           "tag": "100 pts per week",
+          "tagColor": "jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510362-6a9db005-0e23-4756-abf6-8edc51f6d435.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "text": "Do 1 hour of sport via a partner site or application",
           "action": {
+            "web": {
+              "type": "componentFactoryPage",
+              "label": "challenge",
+              "value": "at-least-one-challenge",
+              "analytics": "click on component factory to other page component factory"
+            },
+            "app": {
+              "type": "componentFactoryPage",
+              "label": "challenge",
+              "value": "at-least-one-challenge",
+              "analytics": "click on component factory to other page component factory"
+            },
             "type": "componentFactoryPage",
             "label": "challenge",
             "value": "at-least-one-challenge",
@@ -88,11 +154,24 @@
           "id": "CP_COMMUNICATE",
           "title": "How to earn points",
           "tag": "1 review = 10 pts",
+          "tagColor": "jade",
           "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "imageUrlMedium": "https://user-images.githubusercontent.com/93912415/231510313-825c06f1-49d9-4d38-af2b-19b6a0074357.png",
           "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
           "text": "Share your purchase experience with other Decathlon customers",
           "action": {
+            "web": {
+              "analytics": "click on component factory to other page component factory",
+              "type": "componentFactoryPage",
+              "label": "earn",
+              "value": "how-to-earn-points"
+            },
+            "app": {
+              "analytics": "click on component factory to other page component factory",
+              "type": "componentFactoryPage",
+              "label": "earn",
+              "value": "how-to-earn-points"
+            },
             "analytics": "click on component factory to other page component factory",
             "type": "componentFactoryPage",
             "label": "earn",
