@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "country": "HU",
+  "screenName": "How to earn points",
+  "screenId": "how-to-earn-points",
+  "subCategory": "sportinformation",
+  "data": {
+    "order": [
+      [ "CP_GET_EQUIPPED" ],
+      [ "CP_ACT_FOR_THE_PLANET" ],
+      [ "CP_MOVE" ],
+      [ "CP_COMMUNICATE" ]
+    ],
+    "sections": {
+      "cardPillar": [
+        {
+          "id": "CP_GET_EQUIPPED",
+          "title": "Get equipped",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "tag": "1€= 10pts",
+          "text": "each purchase make your earn points"
+        },
+        {
+          "id": "CP_ACT_FOR_THE_PLANET",
+          "title": "Act for the planet",
+          "tag": "till 100pts",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "text": "Each of your purchases of eco-designed or second-hand products earns points."
+        },
+        {
+          "id": "CP_MOVE",
+          "title": "Move",
+          "tag": "100 pts per week",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "text": "Do 1 hour of sport via a partner site or application"
+        },
+        {
+          "id": "CP_COMMUNICATE",
+          "title": "Communicate",
+          "tag": "1 review = 10 pts",
+          "imageUrlSmall": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "imageUrlMedium": "https://contents.mediadecathlon.com/s977486/k$834ec20ae4afc6e8cfbeb322f352cddb/bons-plans-velo.jpg?format=auto&f=600x0",
+          "imageUrlLarge": "https://contents.mediadecathlon.com/s976530/600x0/k$12be0d99ef87f0553be713557e6d174e/s976530.jpg",
+          "text": "Share your purchase experience with other Decathlon customers"
+        }
+      ]
+    }
+  }
+}
