@@ -640,7 +640,7 @@
           "id": "TitleSection1",
           "title": "In store",
           "icon": "fill/something/store",
-          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
+          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point",
           "titleNumber": "(2)",
           "topAction": {
             "web": {
@@ -683,7 +683,7 @@
           "id": "TitleSection2",
           "title": "In store",
           "icon": "fill/something/gift",
-          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
+          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point",
           "titleNumber": null,
           "topAction": {
             "web": {
@@ -726,7 +726,7 @@
           "id": "TitleSection3",
           "title": "New features",
           "icon": "fill/something/database",
-          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point<br/> ",
+          "text": "Ceci est un texte d'exemple avec des bullets point et des <a href=\"http://www.google.com\">liens</a><br/><br/>&#8226; First bullet point<br/>&#8226; Second bullet point<br/>&#8226; Third bullet point",
           "titleNumber": "(4)",
           "topAction": {
             "web": {
