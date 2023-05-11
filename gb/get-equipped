@@ -70,8 +70,6 @@
       ],
       "titleSection": [
         {
-          "type": "TitleSection",
-          "mandatory": true,
           "id": "TITLE_SECTION_EQUIP_YOURSELF",
           "title": "Want to equip yourself?",
           "text": "Earn loyalty points and all your purchases of Decathlon products and other international brands, as well as on <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>marketplace</a> products sold by our partners"

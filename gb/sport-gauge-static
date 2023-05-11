@@ -1,0 +1,253 @@
+{
+  "success": true,
+  "statusCode": 200,
+  "country": "HU",
+  "screenName": "Sport gauge static content",
+  "screenId": "sport-gauge-static",
+  "subCategory": "?",
+  "data": {
+    "order": [
+      [
+        "TITLE_SECTION_USE_DECATHLON_WEBSITE"
+      ],
+      [
+        "ServiceCardCoach",
+        "ServiceCardOutdoor",
+        "ServiceCardKinomap",
+        "ServiceCardActivities",
+        "ServiceCardPacer",
+        "ServiceCardDomyos",
+        "ServiceCardTraining",
+        "ServiceCardConnect",
+        "FR_see_all_service_card"
+      ],
+      [
+        "TITLE_SECTION_CONNECTED_OBJECTS"
+      ]
+    ],
+    "sections": {
+      "serviceCard": [
+        {
+          "id": "ServiceCardCoach",
+          "title": "App coach",
+          "logo": "coach",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardOutdoor",
+          "title": "App outdoor",
+          "logo": "outdoor",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardPacer",
+          "title": "App pacer",
+          "logo": "pacer",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardTraining",
+          "title": "App training",
+          "logo": "training",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardKinomap",
+          "title": "App kinomap",
+          "logo": "kinomap",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardActivities",
+          "title": "App activities",
+          "logo": "activities",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardDomyos",
+          "title": "App domyos",
+          "logo": "domyos",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        },
+        {
+          "id": "ServiceCardConnect",
+          "title": "App connect",
+          "logo": "connect",
+          "text": "Your companion application to practice (treadmills, bikes, rowers)",
+          "imageUrlSmall": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlMedium": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "imageUrlLarge": "https://raw.githubusercontent.com/cchaouachi/Member-SDK-Mocks/main/tmp/service_card_top_right.png",
+          "action": {
+            "web": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Browser action",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            }
+          }
+        }
+      ],
+      "seeMore": [
+        {
+          "id": "FR_see_all_service_card",
+          "title": "See more apps",
+          "pageTitle": "All decathlon apps",
+          "description": "And download them all"
+        }
+      ],
+      "titleSection": [
+        {
+          "id": "TITLE_SECTION_CONNECTED_OBJECTS",
+          "title": "Connected objects & apps",
+          "icon": "line/something/refresh",
+          "text": "Remember to connect to your account with the same email address to synchronize your sports data and receive your points.",
+          "bottomAction": {
+            "web": {
+              "type": "browser",
+              "label": "Synchronise my devices",
+              "value": "https://www.decathlon.fr",
+              "analytics": "learn more event browser"
+            },
+            "app": {
+              "type": "browser",
+              "label": "Synchronise my devices",
+              "value": "https://www.decathlon.fr",
+              "analytics": "Sync more event browser"
+            }
+          }
+        },
+        {
+          "id": "TITLE_SECTION_USE_DECATHLON_WEBSITE",
+          "title": "Use Decathlon websites & apps",
+          "icon": "line/something/selected_by_decathlon",
+          "text": "Remember to log in with the same email address as your unique Decathlon account to receive your points."
+        }
+      ]
+    }
+  }
+}
