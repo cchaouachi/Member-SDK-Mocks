@@ -61,11 +61,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         },
         {
@@ -88,11 +84,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         }
       ]
