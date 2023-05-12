@@ -130,11 +130,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -157,11 +153,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -184,11 +176,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -211,11 +199,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -238,11 +222,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -265,11 +245,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -292,11 +268,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -319,11 +291,7 @@
               "label": "Browser action",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Browser action",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         }
       ],
@@ -372,11 +340,7 @@
               "label": "Link",
               "value": "https://www.decathlon.fr",
               "analytics": "click on component factory test custom tab"
-            },
-            "type": "customTab",
-            "label": "Link",
-            "value": "https://www.decathlon.fr",
-            "analytics": "click on component factory test custom tab"
+            }
           }
         },
         {
@@ -398,11 +362,7 @@
               "label": "Link",
               "value": "https://www.decathlon.fr",
               "analytics": "click on component factory test custom tab"
-            },
-            "type": "customTab",
-            "label": "Link",
-            "value": "https://www.decathlon.fr",
-            "analytics": "click on component factory test custom tab"
+            }
           }
         },
         {
@@ -424,11 +384,7 @@
               "label": "Link",
               "value": "https://www.decathlon.fr",
               "analytics": "click on component factory test browser"
-            },
-            "type": "browser",
-            "label": "Link",
-            "value": "https://www.decathlon.fr",
-            "analytics": "click on component factory test browser"
+            }
           }
         },
         {
@@ -450,11 +406,7 @@
               "label": "Link",
               "value": "account_home",
               "analytics": "click on component factory test quick access"
-            },
-            "type": "quickAccess",
-            "label": "Link",
-            "value": "account_home",
-            "analytics": "click on component factory test quick access"
+            }
           }
         },
         {
@@ -476,11 +428,7 @@
               "label": "Link",
               "value": "earn-more-points",
               "analytics": "click on component factory to other page component factory"
-            },
-            "type": "componentFactoryPage",
-            "label": "Link",
-            "value": "earn-more-points",
-            "analytics": "click on component factory to other page component factory"
+            }
           }
         },
         {
@@ -502,11 +450,7 @@
               "label": "Link",
               "value": "how-to-earn-points",
               "analytics": "click on component factory to other modal component factory"
-            },
-            "type": "componentFactoryModal",
-            "label": "Link",
-            "value": "how-to-earn-points",
-            "analytics": "click on component factory to other modal component factory"
+            }
           }
         },
         {
@@ -528,11 +472,7 @@
               "label": "Link",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "Link",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         },
         {
@@ -554,11 +494,7 @@
               "label": "Link",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "browser",
-            "label": "Link",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         },
         {
@@ -580,11 +516,7 @@
               "label": "Link",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "Link",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         }
       ],
@@ -654,11 +586,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           },
           "bottomAction": {
             "web": {
@@ -672,11 +600,7 @@
               "label": "Learn more",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Learn more",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -697,11 +621,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           },
           "bottomAction": {
             "web": {
@@ -715,11 +635,7 @@
               "label": "Learn more",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Learn more",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         },
         {
@@ -740,11 +656,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           },
           "bottomAction": {
             "web": {
@@ -758,11 +670,7 @@
               "label": "Learn more",
               "value": "https://www.decathlon.fr",
               "analytics": "learn more event browser"
-            },
-            "type": "browser",
-            "label": "Learn more",
-            "value": "https://www.decathlon.fr",
-            "analytics": "learn more event browser"
+            }
           }
         }
       ],
@@ -808,11 +716,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         },
         {
@@ -837,11 +741,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event webview"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event webview"
+            }
           }
         }
       ],
@@ -915,11 +815,7 @@
               "label": "SEE ALL",
               "value": "https://www.decathlon.fr",
               "analytics": "see all event custom tab"
-            },
-            "type": "customTab",
-            "label": "SEE ALL",
-            "value": "https://www.decathlon.fr",
-            "analytics": "see all event custom tab"
+            }
           }
         }
       ]

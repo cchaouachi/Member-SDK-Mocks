@@ -60,11 +60,7 @@
               "label": "Add to my wallet",
               "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
               "analytics": "Click on add loyalty card button from ALERT_LOYALTY"
-            },
-            "type": "customTab",
-            "label": "Add to my wallet",
-            "value": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-            "analytics": "Click on add loyalty card button from ALERT_LOYALTY"
+            }
           }
         }
       ],

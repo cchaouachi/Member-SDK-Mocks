@@ -61,11 +61,7 @@
               "label": "Unused",
               "value": "get-equipped-error",
               "analytics": "click on component factory to other page component factory"
-            },
-            "type": "componentFactoryModal",
-            "label": "Unused",
-            "value": "get-equipped-error",
-            "analytics": "click on component factory to other page component factory"
+            }
           }
         },
         {
@@ -89,11 +85,7 @@
               "label": "Unused",
               "value": "get-equipped",
               "analytics": "click on component factory to other page component factory"
-            },
-            "type": "componentFactoryModal",
-            "label": "Unused",
-            "value": "get-equipped",
-            "analytics": "click on component factory to other page component factory"
+            }
           }
         },
         {
@@ -117,11 +109,7 @@
               "label": "permanent",
               "value": "at-least-permanent-pillar",
               "analytics": "click on component factory to other page component factory"
-            },
-            "type": "componentFactoryPage",
-            "label": "permanent",
-            "value": "at-least-permanent-pillar",
-            "analytics": "click on component factory to other page component factory"
+            }
           }
         },
         {
@@ -145,11 +133,7 @@
               "label": "challenge",
               "value": "at-least-one-challenge",
               "analytics": "click on component factory to other page component factory"
-            },
-            "type": "componentFactoryPage",
-            "label": "challenge",
-            "value": "at-least-one-challenge",
-            "analytics": "click on component factory to other page component factory"
+            }
           }
         },
         {
@@ -173,11 +157,7 @@
               "type": "componentFactoryPage",
               "label": "earn",
               "value": "how-to-earn-points"
-            },
-            "analytics": "click on component factory to other page component factory",
-            "type": "componentFactoryPage",
-            "label": "earn",
-            "value": "how-to-earn-points"
+            }
           }
         }
       ],
