@@ -1,5 +1,5 @@
 {
-  "current": 90,
-  "max": 90,
-  "reward": 150
+  "current": 0,
+  "max": 60,
+  "reward": 150000
 }
