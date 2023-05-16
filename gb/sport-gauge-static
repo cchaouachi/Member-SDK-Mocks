@@ -246,7 +246,7 @@
               "order": 3,
               "icon": "line/something/timer",
               "title": "Action",
-              "description": "Make your hour of sport:<br/>&#8226; Monday 00:00 to Sunday 23:59<br/>&#8226; with a compatible mobile application and/or connected object(s)"
+              "description": "Make your hour of sport:<br/>&#8226; Monday 00:00 to Sunday 23:59<br/>&#8226; With a compatible mobile application and/or connected object(s)"
             }
           ]
         }
