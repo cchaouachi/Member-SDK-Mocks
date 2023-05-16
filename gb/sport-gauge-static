@@ -8,10 +8,10 @@
   "data": {
     "order": [
       [
-        "TITLE_SECTION_USE_DECATHLON_WEBSITE"
+        "ListComponent1"
       ],
       [
-        "ListComponent1"
+        "TITLE_SECTION_USE_DECATHLON_WEBSITE"
       ],
       [
         "ServiceCardCoach",
