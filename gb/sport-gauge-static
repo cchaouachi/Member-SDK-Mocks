@@ -11,6 +11,9 @@
         "TITLE_SECTION_USE_DECATHLON_WEBSITE"
       ],
       [
+        "ListComponent1"
+      ],
+      [
         "ServiceCardCoach",
         "ServiceCardOutdoor",
         "ServiceCardKinomap",
@@ -218,6 +221,34 @@
           "title": "See more apps",
           "pageTitle": "All decathlon apps",
           "description": "And download them all"
+        }
+      ],
+      "listComponent": [
+        {
+          "id": "ListComponent1",
+          "items": [
+            {
+              "itemId": "0",
+              "order": 1,
+              "icon": "line/something/database",
+              "title": "Points credited",
+              "description": "Max 100 pts per week"
+            },
+            {
+              "itemId": "1",
+              "order": 2,
+              "icon": "line/something/run",
+              "title": "Terms",
+              "description": "Carry out 1 hour of sport per week, all sports combined. Ex: 30 min of running + 30 min of cycling or 1 hour of fitness."
+            },
+            {
+              "itemId": "2",
+              "order": 3,
+              "icon": "line/something/timer",
+              "title": "Action",
+              "description": "Make your hour of sport:<br/>&#8226; Monday 00:00 to Sunday 23:59<br/>&#8226; with a compatible mobile application and/or connected object(s)"
+            }
+          ]
         }
       ],
       "titleSection": [
