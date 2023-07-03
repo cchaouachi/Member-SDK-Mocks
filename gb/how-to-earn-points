@@ -21,6 +21,22 @@
       ]
     ],
     "sections": {
+      "stickyComponent": [
+        {
+          "app": {
+            "type": "componentFactoryPage",
+            "label": "Discover more",
+            "value": "earn-more-points",
+            "analytics": "see all event custom tab"
+          },
+          "web": {
+            "type": "componentFactoryPage",
+            "label": "Discover more",
+            "value": "earn-more-points",
+            "analytics": "see all event custom tab"
+          },
+        }
+      ],
       "cardPillar": [
         {
           "id": "CP_GET_EQUIPPED",
