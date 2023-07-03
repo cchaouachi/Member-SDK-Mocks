@@ -745,6 +745,22 @@
           }
         }
       ],
+      "stickyComponent": [
+        {
+          "web": {
+            "type": "customTab",
+            "label": "Open re7 login form",
+            "value": "https://api-global.preprod.decathlon.net/connect-re7/oauth/authorize?client_id=client-default&redirect_uri=https://api-eu.preprod.decathlon.net/connect-re7/oauth/mock_redirect_uri&response_type=token&state=12345&scope=openid%20profile%20email ",
+            "analytics": "see all event custom tab"
+          },
+          "app": {
+            "type": "browser",
+            "label": "Open decat fr site",
+            "value": "https://www.decathlon.fr",
+            "analytics": "see all event custom tab"
+          }
+        }
+      ],
       "listComponent": [
         {
           "id": "ListComponent1",
